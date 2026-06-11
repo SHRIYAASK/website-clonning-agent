@@ -97,5 +97,5 @@ The cloned Next.js app is **90% perfect** in replicating the original site's lay
 > **Note on Images**: The main current limitation is that the image name allocation from the assets folder is occasionally misplaced, which can lead to broken or incorrect images being displayed in the generated application.
 
 *(Replace these placeholders with your actual screenshot images)*
-- ![Original Site Screenshot](path/to/original-site-image.png)
-- ![Cloned Site Screenshot](path/to/cloned-site-image.png)
+- <img width="1900" height="948" alt="clonned-Site" src="https://github.com/user-attachments/assets/a7ded3dc-be02-4d1c-9147-d726492239f0" />
+- <img width="1888" height="952" alt="Original-Site" src="https://github.com/user-attachments/assets/4be80bba-f9b7-4916-8bfd-dde77d80f11a" />
